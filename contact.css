@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #436155;
+    background-color: #568392;
 }
 
 header, footer {
     background-color: #333;
-    color: rgb(17, 2, 58);
+    color: rgb(174, 150, 177);
     text-align: center;
     padding: 1em 0;
 }
