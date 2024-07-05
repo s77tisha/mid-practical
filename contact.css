@@ -3,11 +3,12 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #185c41;
 }
 
 header, footer {
     background-color: #333;
-    color: white;
+    color: rgb(174, 123, 123);
     text-align: center;
     padding: 1em 0;
 }
@@ -47,3 +48,8 @@ img {
 footer p {
     margin: 0;
 }
+.gochi-hand-regular {
+    font-family: "Gochi Hand", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
